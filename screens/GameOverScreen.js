@@ -16,7 +16,7 @@ function GameOverScreen() {
             Your phone needed <Text style={styles.highlight}>X</Text> rounds to guess the number{" "}
             <Text style={styles.highlight}>Y</Text>.
           </Text>
-          <PrimaryButton>Start New Game</PrimaryButton>
+          <PrimaryButton>Start New Game!</PrimaryButton>
         </View>
   );
 }
